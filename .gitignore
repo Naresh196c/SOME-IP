@@ -1,0 +1,20 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files and backups
+*.bak
+*.log
+someip-code-review.tar.gz
+
+# Editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+backup_assignment1/
